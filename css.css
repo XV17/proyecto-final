@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(194, 15, 201);
+    padding-left: 10%;
+    padding-right: 10%;
+    }
+    a {
+        color:white
+    }
+
+tr {
+background-color: gray;
+}
+@media (min-width: 576px){
+    body {
+        background-color: white;
+    }
+    a{
+    color:violet
+    }
+}
+@media (min-width: 992px) {
+    body {
+        background-color:rgb(51, 74, 207);
+        
+    }
+    a{
+        color:gold
+    }
+}
